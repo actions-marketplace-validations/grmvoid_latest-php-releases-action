@@ -9,8 +9,4 @@ module.exports = {
         'plugin:@typescript-eslint/recommended',
     ],
     plugins: ['@typescript-eslint'],
-    rules: {
-        '@typescript-eslint/no-unused-vars': 'off',
-        'no-unused-vars': 'off',
-    },
 };
