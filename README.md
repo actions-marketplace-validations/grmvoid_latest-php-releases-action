@@ -42,7 +42,7 @@ jobs:
         steps:
             - name: Checkout
               uses: actions/checkout@v4
-            - uses: sxbrsky/latest-php-releases-action@v1
+            - uses: slpxxv/latest-php-releases-action@v1
               id: get-latest-releases
 
     print-php-version:
