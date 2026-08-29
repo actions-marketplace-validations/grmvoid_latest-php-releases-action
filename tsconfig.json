@@ -12,7 +12,7 @@
 
         "sourceMap": true,
         "baseUrl": "./",
-        "rootDir": "./src",
+        "rootDir": ".",
         "outDir": "./dist"
     },
     "exclude": ["./dist", "./node_modules"]

@@ -8,7 +8,7 @@ branding:
 
 outputs:
     releases:
-        description: The list of latest releases, as a list of objects (`object[]`).
+        description: A JSON array of active PHP releases, sorted by version in ascending order.
 
 runs:
     using: node20
